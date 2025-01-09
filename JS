@@ -120,8 +120,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226006/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
 http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
@@ -999,45 +997,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227729/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV潮妈辣婆
-http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV军旅剧场
-http://223.110.236.11/ott.js.chinamobile.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV动作电影
-http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV古装剧场
-http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221227542/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV家庭剧场
-http://223.110.235.7/ott.js.chinamobile.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV惊悚悬疑
-http://223.110.235.25/ott.js.chinamobile.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱情喜剧
-http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品大剧
-http://223.110.235.26/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品记录
-http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV明星大片
-http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV海外剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV军旅剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV动作电影
-http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV家庭剧场
-http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV惊悚悬疑
-http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV明星大片
-http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱情喜剧
-http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品大剧
-http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品记录
-http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 tvg-id="4K影院" tvg-name="4K影院" tvg-logo="https://live.fanmingming.com/tv/4K影院.png" group-title="4K",4K影院
+#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://live.fanmingming.com/tv/华数4K.png" group-title="4K",华数4K
 http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://live.fanmingming.com/tv/华数4K.png" group-title="4K",华数4K
 http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
@@ -1363,8 +1323,6 @@ http://39.134.136.161:6610/000000001000/5000000004000007275/index.m3u8?livemode=
 http://39.134.136.161:6610/000000001000/1000000002000023773/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000023773
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
 http://39.134.136.161:6610/000000001000/5000000004000006211/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000006211
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
-http://39.134.136.161:6610/000000001000/5000000011000288016/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288016
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
 http://39.134.136.161:6610/000000001000/1000000001000011645/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000011645
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
@@ -1441,163 +1399,9 @@ http://39.134.136.161:6610/000000001000/5000000004000025203/index.m3u8?livemode=
 http://39.134.136.161:6610/000000001000/1000000001000001925/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001925
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://39.134.136.161:6610/000000001000/6000000001000016510/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000016510
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV东北剧场
-http://39.134.136.161:6610/000000001000/1000000005000266013/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266013
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV东北热剧
-http://39.134.136.161:6610/000000001000/2000000003000000051/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000051
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV军旅剧场
-http://39.134.136.161:6610/000000001000/7485075951068666323/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7485075951068666323
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV军旅剧场
-http://39.134.136.161:6610/000000001000/2000000003000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000014
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV动作电影
-http://39.134.136.161:6610/000000001000/8103864434730665389/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8103864434730665389
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV动作电影
-http://39.134.136.161:6610/000000001000/1000000004000018653/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000018653
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV动作电影
-http://39.134.136.161:6610/000000001000/2000000003000000017/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000017
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV古装剧场
-http://39.134.136.161:6610/000000001000/6859053933687922163/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6859053933687922163
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV古装剧场
-http://39.134.136.161:6610/000000001000/2000000003000000024/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000024
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV家庭剧场
-http://39.134.136.161:6610/000000001000/6316377948248689070/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6316377948248689070
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV家庭剧场
-http://39.134.136.161:6610/000000001000/1000000004000008284/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000008284
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV家庭剧场
-http://39.134.136.161:6610/000000001000/2000000003000000012/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000012
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV惊悚悬疑
-http://39.134.136.161:6610/000000001000/7151256057701199617/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7151256057701199617
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV惊悚悬疑
-http://39.134.136.161:6610/000000001000/1000000004000024282/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000024282
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV惊悚悬疑
-http://39.134.136.161:6610/000000001000/2000000003000000015/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000015
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV明星大片
-http://39.134.136.161:6610/000000001000/1000000004000019008/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000019008
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV明星大片
-http://39.134.136.161:6610/000000001000/2000000003000000016/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000016
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV欢乐剧场
-http://39.134.136.161:6610/000000001000/1000000005000266012/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266012
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV欢乐剧场
-http://39.134.136.161:6610/000000001000/2000000003000000050/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000050
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV潮妈辣婆
-http://39.134.136.161:6610/000000001000/6516734029835465177/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6516734029835465177
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV潮妈辣婆
-http://39.134.136.161:6610/000000001000/2000000003000000018/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000018
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV热播精选
-http://39.134.136.161:6610/000000001000/7681593242002292003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7681593242002292003
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱情喜剧
-http://39.134.136.161:6610/000000001000/8393829412396288037/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8393829412396288037
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱情喜剧
-http://39.134.136.161:6610/000000001000/2000000003000000010/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000010
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品大剧
-http://39.134.136.161:6610/000000001000/7882297361445410858/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7882297361445410858
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品大剧
-http://39.134.136.161:6610/000000001000/1000000004000013968/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000013968
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品大剧
-http://39.134.136.161:6610/000000001000/2000000003000000020/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000020
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品记录
-http://39.134.136.161:6610/000000001000/6298506997017621594/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6298506997017621594
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品记录
-http://39.134.136.161:6610/000000001000/1000000004000013730/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000013730
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品综合
-http://39.134.136.161:6610/000000001000/5595720619887440144/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5595720619887440144
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品综合
-http://39.134.136.161:6610/000000001000/2000000003000000008/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000008
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品记录
-http://39.134.136.161:6610/000000001000/2000000003000000019/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000019
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV超级电影
-http://39.134.136.161:6610/000000001000/1000000001000012884/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000012884
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV超级电影
-http://39.134.136.161:6610/000000001000/1000000004000002120/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000002120
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV超级电影
-http://39.134.136.161:6610/000000001000/2000000003000000031/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000031
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV超级电影
-http://39.134.136.161:6610/000000001000/1000000003000012426/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000003000012426
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV超级电视剧
-http://39.134.136.161:6610/000000001000/1000000001000008139/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008139
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV超级电视剧
-http://39.134.136.161:6610/000000001000/1000000004000024993/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000024993
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV超级电视剧
-http://39.134.136.161:6610/000000001000/2000000003000000032/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000032
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV超级电视剧
-http://39.134.136.161:6610/000000001000/1000000006000268003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268003
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱历史
-http://39.134.136.161:6610/000000001000/2000000004000000046/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000046
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱历史
-http://39.134.136.161:6610/000000001000/6000000006000150630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000150630
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱喜剧
-http://39.134.136.161:6610/000000001000/2000000004000000032/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000032
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱喜剧
-http://39.134.136.161:6610/000000001000/6000000006000010630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000010630
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱怀旧
-http://39.134.136.161:6610/000000001000/6000000006000260630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000260630
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱悬疑
-http://39.134.136.161:6610/000000001000/2000000004000000036/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000036
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱悬疑
-http://39.134.136.161:6610/000000001000/6000000006000050630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000050630
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱旅行
-http://39.134.136.161:6610/000000001000/2000000004000000056/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000056
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱旅行
-http://39.134.136.161:6610/000000001000/6000000006000250630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000250630
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱浪漫
-http://39.134.136.161:6610/000000001000/2000000004000000035/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000035
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱浪漫
-http://39.134.136.161:6610/000000001000/6000000006000040630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000040630
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱科学
-http://39.134.136.161:6610/000000001000/2000000004000000047/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000047
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱科学
-http://39.134.136.161:6610/000000001000/6000000006000160630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000160630
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱科幻
-http://39.134.136.161:6610/000000001000/2000000004000000033/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000033
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱科幻
-http://39.134.136.161:6610/000000001000/6000000006000020630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000020630
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱经典
-http://39.134.136.161:6610/000000001000/6000000006000060630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000060630
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱谍战
-http://39.134.136.161:6610/000000001000/2000000004000000038/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000038
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱谍战
-http://39.134.136.161:6610/000000001000/6000000006000070630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000070630
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱都市
-http://39.134.136.161:6610/000000001000/6000000006000080630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000080630
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱院线
-http://39.134.136.161:6610/000000001000/2000000004000000034/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000034
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱院线
-http://39.134.136.161:6610/000000001000/6000000006000030630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000030630
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱青春
-http://39.134.136.161:6610/000000001000/6000000006000100630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000100630
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="黑莓",黑莓电影
 http://39.134.136.161:6610/000000001000/8785669936177902664/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8785669936177902664
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="黑莓",黑莓电影
 http://39.134.136.161:6610/000000001000/1000000004000019624/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000019624
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="黑莓",黑莓电影
 http://39.134.136.161:6610/000000001000/2000000003000000001/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000001
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精彩影视
-http://39.134.136.161:6610/000000001000/2000000004000000063/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000063
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精彩影视
-http://39.134.136.161:6610/000000001000/6000000006000320630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000320630
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV古装剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品大剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV爱情喜剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV军旅剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV东北热剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV家庭剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV欢乐剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV潮妈辣婆
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV惊悚悬疑
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV精品记录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV超级电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="NewTV" group-title="NewTV",NewTV超级电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
